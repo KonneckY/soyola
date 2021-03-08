@@ -164,7 +164,7 @@ main{
   
   
   .slideshow li:nth-child(1) span { 
-      background-image: url("span1.jpg"); 
+      background-image: url("span1.JPG"); 
   }
   .slideshow li:nth-child(2) span { 
       background-image: url("span2.JPG");
@@ -180,7 +180,7 @@ main{
   }
   .slideshow li:nth-child(5) span { 
     background-image: url("span5.JPG");  
-    animation-delay: 24s; 
+    animation-delay: 5s; 
   }
   
   
