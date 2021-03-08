@@ -180,7 +180,7 @@ main{
   }
   .slideshow li:nth-child(5) span { 
     background-image: url("span5.JPG");  
-    animation-delay: 5s; 
+    animation-delay: 20s; 
   }
   
   
